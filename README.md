@@ -1,5 +1,4 @@
-#Objective
-This project aims to approximate the definite integral of the function 
+#This mini project focuses on numerical integration using the Midpoint Rule to approximate the definite integral of 
 𝑓
 (
 𝑥
@@ -9,4 +8,4 @@ This project aims to approximate the definite integral of the function
 2
 f(x)=x 
 2
-  over the interval [200, 300] using the Midpoint Rule. The Midpoint Rule is a numerical integration method that provides an approximation of the area under a curve by dividing the given interval into smaller subintervals and evaluating the function at the midpoint of each subinterval. The Python implementation in this project demonstrates how this method can be used to estimate definite integrals efficiently
+  over the interval [200, 300]. The project includes a Python implementation to compute the integral with a specified number of subintervals, demonstrating the effectiveness of numerical methods when analytical solutions are complex or unavailable
